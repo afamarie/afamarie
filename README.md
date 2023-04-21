@@ -3,10 +3,10 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Wellcome+to+my+Profile🖤)](https://git.io/typing-svg)
 
-- 💻 My current stack: JavaScript, SASS/CSS and some React
-- 🎓 Currently learning TypeScript and React
-- 🙌 Freelancer web developer and content manager on WordPress and other CMS
-- 🙋 Experienced Online Communications Manager in the past
+💻 My current stack: JavaScript, SASS/CSS and some React
+🎓 Currently learning TypeScript and React
+🙌 Freelancer web developer and content manager on WordPress and other CMS
+🙋 Experienced Online Communications Manager in the past
 
 ## Let's get in touch:
 - <a href="https://www.linkedin.com/in/afamarie/" target="blank">LinkedIn</a>
