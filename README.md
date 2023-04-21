@@ -41,7 +41,7 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 + [Deployment](https://afamarie.github.io/Arctic-Cruises/)
 + [Repository](https://github.com/afamarie/Arctic-Cruises)
 ### 🖼️ Keksogram
-+ simplified clone of Instagram gallery with functionalities of adding image with comments and applying image filters, form validation, sending data to server, commenting add sorting images
++ simplified clone of Instagram gallery with functionalities of adding image with comments and applying image filters, form validation, sending data to server, commenting and sorting images
 + JavaScript, Fetch, API, Pristine validation library
 + [Deployment](https://afamarie.github.io/1878815-kekstagram-27/)
 + [Repository](https://github.com/afamarie/1878815-kekstagram-27)
