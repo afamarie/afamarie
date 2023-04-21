@@ -7,7 +7,6 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 - 🎓 Currently learning TypeScript and React
 - 🙌 Freelancer web developer and content manager on WordPress and other CMS
 - 🙋 Experienced Online Communications Manager in the past
-- 😺 Mom of two adopted from streets girls cats
 
 ## Let's get in touch:
 - <a href="https://www.linkedin.com/in/afamarie/" target="blank">LinkedIn</a>
