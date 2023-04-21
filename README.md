@@ -33,15 +33,15 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 ### 🏋️ Supergym
 + responsive frontpage for a gym with sliders, tabs, simple gradient animations
 + JavaScript, SASS, Swiper library, BEM methodology
-+ [Demo](https://afamarie.github.io/supergym/build/)
++ [Deployment](https://afamarie.github.io/supergym/build/)
 + [Repository](https://github.com/afamarie/supergym)
 ### ❄️ Arctic Cruises
 + responsive frontpage for a tour company with cards, form and map
 + JavaScript, SASS, BEM methodology
-+ [Demo](https://afamarie.github.io/Arctic-Cruises/)
++ [Deployment](https://afamarie.github.io/Arctic-Cruises/)
 + [Repository](https://github.com/afamarie/Arctic-Cruises)
 ### 🖼️ Keksogram
 + simplified clone of Instagram gallery with functionalities of adding image with comments and applying image filters, form validation, sending data to server, commenting add sorting images
 + JavaScript, Fetch, API, Pristine validation library
-+ [Demo](https://afamarie.github.io/1878815-kekstagram-27/)
++ [Deployment](https://afamarie.github.io/1878815-kekstagram-27/)
 + [Repository](https://github.com/afamarie/1878815-kekstagram-27)
