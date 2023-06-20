@@ -3,7 +3,7 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+my+Profile🖤)](https://git.io/typing-svg)
 
-💻 My current stack: JavaScript, SASS/CSS and some React  
+💻 My current stack: JavaScript, SASS/CSS and some Vue and React  
 🎓 Currently learning TypeScript, Vue, React  
 🙌 Freelancer web developer and content manager on WordPress and other CMS  
 🙋 Experienced Online Communications Manager in the past
