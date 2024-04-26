@@ -3,9 +3,9 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+my+Profile🖤)](https://git.io/typing-svg)
 
-💻 My current stack: JavaScript, TypeScript, Vue, Capacitor
-🎓 Software development student
-😻 Mom of two 🐈 girls (and some apps)
+💻 My current stack: JavaScript, TypeScript, Vue, Capacitor  
+🎓 Software development student  
+😻 Mom of two 🐈 girls (and some apps)  
 
 ## Let's get in touch:
 - <a href="https://www.linkedin.com/in/afamarie/" target="blank">LinkedIn</a>
@@ -23,7 +23,8 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 
