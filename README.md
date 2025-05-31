@@ -3,7 +3,7 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+my+Profile🖤)](https://git.io/typing-svg)
 
-💻 My current stack: JavaScript, TypeScript, Vue, Capacitor  
+💻 My current stack: JavaScript, TypeScript, Vue, React  
 🎓 Software development student  
 😻 Mom of two 🐈 girls (and some apps)  
 
@@ -39,7 +39,7 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 + [Deployment](https://demo-nuxt-blog.netlify.app)
 + [Repository](https://github.com/afamarie/nuxt-blog)
 
-+ ### 💲 Converter
+### 💲 Converter
 + 3 currencies
 + oninput currency conversion
 + input validation
