@@ -17,6 +17,7 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons//nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/capacitor/capacitor-original.svg" title="Capacitor" alt="Capacitor" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,18 +31,24 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 
 ## Featured projects:
 
+### ✍️ Blog
++ Server-Side Rendering (SSR)
++ Multilingual support
++ Custom UI with @nuxt/ui
++ Deployed on Netlify with CDN caching
++ [Deployment](https://demo-nuxt-blog.netlify.app)
++ [Repository](https://github.com/afamarie/nuxt-blog)
+
++ ### 💲 Converter
++ 3 currencies
++ oninput currency conversion
++ input validation
++ Nuxt, @nuxt/ui, Pinia, TypeScript
++ [Deployment](https://afamarie.github.io/nuxt-converter)
++ [Repository](https://github.com/afamarie/nuxt-converter)
+
 ### 🏋️ Supergym
-+ responsive frontpage for a gym with sliders, tabs, simple gradient animations
++ Responsive frontpage for a gym with sliders, tabs, simple gradient animations
 + JavaScript, SASS, Swiper library, BEM methodology
 + [Deployment](https://afamarie.github.io/supergym/build/)
 + [Repository](https://github.com/afamarie/supergym)
-### ❄️ Arctic Cruises
-+ responsive frontpage for a tour company with cards, form and map
-+ JavaScript, SASS, BEM methodology
-+ [Deployment](https://afamarie.github.io/Arctic-Cruises/)
-+ [Repository](https://github.com/afamarie/Arctic-Cruises)
-### 🖼️ Keksogram
-+ simplified clone of Instagram gallery with functionalities of adding image with comments and applying image filters, form validation, sending data to server, commenting and sorting images
-+ JavaScript, Fetch, API, Pristine validation library
-+ [Deployment](https://afamarie.github.io/1878815-kekstagram-27/)
-+ [Repository](https://github.com/afamarie/1878815-kekstagram-27)
