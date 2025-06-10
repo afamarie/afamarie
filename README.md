@@ -46,9 +46,3 @@ I'm a Frontend developer based in Almaty, Kazakhstan.
 + Nuxt, @nuxt/ui, Pinia, TypeScript
 + [Deployment](https://afamarie.github.io/nuxt-converter)
 + [Repository](https://github.com/afamarie/nuxt-converter)
-
-### 🏋️ Supergym
-+ Responsive frontpage for a gym with sliders, tabs, simple gradient animations
-+ JavaScript, SASS, Swiper library, BEM methodology
-+ [Deployment](https://afamarie.github.io/supergym/build/)
-+ [Repository](https://github.com/afamarie/supergym)
